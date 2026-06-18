@@ -1,6 +1,6 @@
 [
   {
-    "Author": "SekhmetAnkh",
+    "Author": "Ankhito",
     "Name": "PositionalPilot",
     "Punchline": "Assistive, safety-gated melee positional movement.",
     "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
@@ -26,7 +26,7 @@
     "DownloadLinkTesting": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip"
   },
   {
-    "Author": "SekhmetAnkh",
+    "Author": "Ankhito",
     "Name": "GBR Monster Hunter",
     "Punchline": "Route to drop-only materials from crafting plans.",
     "Description": "Listens to GatherBuddy Reborn/Vulcan execution plans, detects missing drop-only materials using Vulcan/GatherBuddy mob-drop locations with local fallbacks, waits for GBR gathering to finish, equips a selected combat job, routes to the hunted monster, supports selectable RotationSolverReborn or WrathCombo combat drivers, and resumes Vulcan automatically.",
@@ -62,7 +62,7 @@
     "DownloadLinkTesting": "https://github.com/Ankhito/GBRMonsterHunter/releases/download/v0.1.15/GBRMonsterHunter-latest.zip"
   },
   {
-    "Author": "SekhmetPlugins",
+    "Author": "Ankhito",
     "Name": "OpenerPilot",
     "Punchline": "Level 100 opener handoff helper.",
     "Description": "Local level 100 opener runner for standard combat jobs, using OpenerPilot opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
