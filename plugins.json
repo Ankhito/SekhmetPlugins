@@ -1,12 +1,12 @@
 [
   {
-    "owner": "SekhmetAnkh",
+    "owner": "Ankhito",
     "repo": "PositionalPilot",
     "manifestPath": "PositionalPilot/PositionalPilot.json",
     "assetName": "PositionalPilot-latest.zip"
   },
   {
-    "owner": "SekhmetAnkh",
+    "owner": "Ankhito",
     "repo": "GBRMonsterHunter",
     "manifestPath": "GBRMonsterHunter/GBRMonsterHunter.json",
     "assetName": "GBRMonsterHunter-latest.zip",
@@ -15,7 +15,7 @@
     }
   },
   {
-    "owner": "SekhmetAnkh",
+    "owner": "Ankhito",
     "repo": "OpenerPilot",
     "manifestPath": "OpenerPilot/OpenerPilot.json",
     "assetName": "OpenerPilot-latest.zip"
