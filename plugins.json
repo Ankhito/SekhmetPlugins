@@ -34,5 +34,14 @@
     "metadata": {
       "Author": "Ankhito"
     }
+  },
+  {
+    "owner": "Ankhito",
+    "repo": "AutomarketPro",
+    "manifestPath": "AutomarketPro.json",
+    "assetName": "AutomarketPro-latest.zip",
+    "metadata": {
+      "Description": "Fork build of AutoMarket Pro with retainer inventory scanning, sellability-aware Universalis ranking, filtered list/vendor modes, and marketboard automation while upstream changes are pending."
+    }
   }
 ]

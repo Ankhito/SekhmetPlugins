@@ -112,5 +112,41 @@
     "DownloadLinkInstall": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.14/CurrencyProfitScanner-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.14/CurrencyProfitScanner-latest.zip",
     "DownloadLinkTesting": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.14/CurrencyProfitScanner-latest.zip"
+  },
+  {
+    "Author": "Asphodel",
+    "Name": "AutoMarket Pro",
+    "Punchline": "Smart FFXIV marketboard automation.",
+    "Description": "Fork build of AutoMarket Pro with retainer inventory scanning, sellability-aware Universalis ranking, filtered list/vendor modes, and marketboard automation while upstream changes are pending.",
+    "InternalName": "AutomarketPro",
+    "AssemblyVersion": "1.0.0.14",
+    "RepoUrl": "https://github.com/Ankhito/AutomarketPro",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "market",
+      "automation",
+      "retainer",
+      "universalis"
+    ],
+    "CategoryTags": [
+      "Utility",
+      "Automation"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": 1782052570,
+    "HasConfigUi": true,
+    "HasMainUi": true,
+    "IconUrl": "https://raw.githubusercontent.com/Ankhito/AutomarketPro/main/automarketlogo_icon_64.png",
+    "DownloadLinkInstall": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.14/AutomarketPro-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.14/AutomarketPro-latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.14/AutomarketPro-latest.zip"
   }
 ]
