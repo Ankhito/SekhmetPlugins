@@ -119,7 +119,7 @@
     "Punchline": "Smart FFXIV marketboard automation.",
     "Description": "Fork build of AutoMarket Pro with retainer inventory scanning, sellability-aware Universalis ranking, filtered list/vendor modes, and marketboard automation while upstream changes are pending.",
     "InternalName": "AutomarketPro",
-    "AssemblyVersion": "1.0.0.37",
+    "AssemblyVersion": "1.0.0.38",
     "RepoUrl": "https://github.com/Ankhito/AutomarketPro",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -141,11 +141,11 @@
     "LoadPriority": 0,
     "AcceptsFeedback": true,
     "DownloadCount": 7,
-    "LastUpdate": 1782242297,
-    "Changelog": "Improves market staleness and undercut scoring with quality-aware price fallback, outlier-resistant references, and 7-day velocity.",
-    "DownloadLinkInstall": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.37/AutomarketPro-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.37/AutomarketPro-latest.zip",
-    "DownloadLinkTesting": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.37/AutomarketPro-latest.zip"
+    "LastUpdate": 1782310652,
+    "Changelog": "Hardens repricer price application and market data timestamp parsing after review.",
+    "DownloadLinkInstall": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.38/AutomarketPro-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.38/AutomarketPro-latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.38/AutomarketPro-latest.zip"
   },
   {
     "Author": "Ankhito",
