@@ -16,6 +16,6 @@ https://raw.githubusercontent.com/Ankhito/AnkhitoPlugins/main/pluginmaster-testi
 
 ## Plugins
 
-- GBR Monster Hunter: routes to drop-only materials.
-- Positional Pilot: helps with melee positional movement safely.
+- Huntsman: routes to drop-only materials.
 - PmpShare: temporary encrypted `.pmp` transfer testing client.
+- Some more testing ones, some might release, some might be scrapped.
