@@ -1,27 +1,10 @@
 [
-  {
-    "owner": "Ankhito",
-    "repo": "PositionalPilot",
-    "manifestPath": "PositionalPilot/PositionalPilot.json",
-    "assetName": "PositionalPilot-latest.zip",
-    "metadata": {
-      "Author": "Ankhito"
-    }
-  },
+
   {
     "owner": "Ankhito",
     "repo": "Huntsman",
     "manifestPath": "Huntsman/Huntsman.json",
     "assetName": "Huntsman-latest.zip",
-    "metadata": {
-      "Author": "Ankhito"
-    }
-  },
-  {
-    "owner": "Ankhito",
-    "repo": "OpenerPilot",
-    "manifestPath": "OpenerPilot/OpenerPilot.json",
-    "assetName": "OpenerPilot-latest.zip",
     "metadata": {
       "Author": "Ankhito"
     }
