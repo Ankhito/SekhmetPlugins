@@ -1,32 +1,6 @@
 [
   {
     "Author": "Ankhito",
-    "Name": "PositionalPilot",
-    "Punchline": "Assistive, safety-gated melee positional movement.",
-    "Description": "Suggests or safely moves toward selected combat-source rear/flank positionals using BossMod safety and vnavmesh when explicitly enabled. Off by default, fail-closed, and no stealth or bypass behavior.",
-    "InternalName": "PositionalPilot",
-    "AssemblyVersion": "0.1.34.0",
-    "RepoUrl": "https://github.com/SekhmetAnkh/PositionalPilot",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Tags": [
-      "combat",
-      "positional",
-      "accessibility"
-    ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "AcceptsFeedback": true,
-    "DownloadCount": 66,
-    "LastUpdate": 1781286288,
-    "DownloadLinkInstall": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip",
-    "DownloadLinkTesting": "https://github.com/Ankhito/PositionalPilot/releases/download/v0.1.34/PositionalPilot-latest.zip"
-  },
-  {
-    "Author": "Ankhito",
     "Name": "Huntsman",
     "Punchline": "Search, route, and hunt drop-only materials.",
     "Description": "Standalone monster-drop hunting and routing using local LuminaSupplemental data, manual hunt lists, vnavmesh navigation, mount support, and configurable combat handoff.",
@@ -55,37 +29,11 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 55,
+    "DownloadCount": 69,
     "LastUpdate": 1781986471,
     "DownloadLinkInstall": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.18.0/Huntsman-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.18.0/Huntsman-latest.zip",
     "DownloadLinkTesting": "https://github.com/Ankhito/Huntsman/releases/download/v0.1.18.0/Huntsman-latest.zip"
-  },
-  {
-    "Author": "Ankhito",
-    "Name": "OpenerPilot",
-    "Punchline": "Level 100 opener handoff helper.",
-    "Description": "Local level 100 opener runner for standard combat jobs, using OpenerPilot opener data while keeping RotationSolverReborn off during execution and handing back afterward.",
-    "InternalName": "OpenerPilot",
-    "AssemblyVersion": "0.2.15.0",
-    "RepoUrl": "https://github.com/Ankhito/OpenerPilot",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Tags": [
-      "rsr",
-      "opener",
-      "rotation"
-    ],
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "AcceptsFeedback": true,
-    "DownloadCount": 27,
-    "LastUpdate": 1781368477,
-    "DownloadLinkInstall": "https://github.com/Ankhito/OpenerPilot/releases/download/v0.2.15/OpenerPilot-latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ankhito/OpenerPilot/releases/download/v0.2.15/OpenerPilot-latest.zip",
-    "DownloadLinkTesting": "https://github.com/Ankhito/OpenerPilot/releases/download/v0.2.15/OpenerPilot-latest.zip"
   },
   {
     "Author": "Ankhito",
@@ -107,7 +55,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 11,
+    "DownloadCount": 52,
     "LastUpdate": 1782037249,
     "DownloadLinkInstall": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.14/CurrencyProfitScanner-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/Currency-Profit-Scanner/releases/download/v0.1.14/CurrencyProfitScanner-latest.zip",
@@ -140,9 +88,9 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 7,
-    "LastUpdate": 1782391049,
-    "Changelog": "Stops retainer recovery from touching normal player inventory windows and makes Stop cancel active scans.",
+    "DownloadCount": 31,
+    "LastUpdate": 1782391128,
+    "Changelog": "Hotfix for inventory/retainer UI ownership.\\n\\n- Stop retainer recovery from closing or acting on normal player inventory addons.\\n- Require retainer-specific bag addons when operating on retainer bags.\\n- Make automation stop also cancel any active scanner token so idle plugins do not keep UI helper behavior alive.",
     "DownloadLinkInstall": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.39/AutomarketPro-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.39/AutomarketPro-latest.zip",
     "DownloadLinkTesting": "https://github.com/Ankhito/AutomarketPro/releases/download/v1.0.0.39/AutomarketPro-latest.zip"
@@ -174,16 +122,47 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "AcceptsFeedback": true,
-    "DownloadCount": 2,
-    "LastUpdate": 1782325605,
+    "DownloadCount": 118,
+    "LastUpdate": 1782325992,
     "Changelog": "Testing UX cleanup release. Successful receives now acknowledge and remove their inbox request, declined/expired requests are hidden from inbox, and old accepted requests tied to completed/deleted/expired transfers are pruned.",
     "DownloadLinkInstall": "https://github.com/Ankhito/pmpshare/releases/download/v0.1.21-testing/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ankhito/pmpshare/releases/download/v0.1.21-testing/latest.zip",
     "DownloadLinkTesting": "https://github.com/Ankhito/pmpshare/releases/download/v0.1.21-testing/latest.zip",
     "TestingAssemblyVersion": "0.1.21.0"
+  },
+  {
+    "Author": "Ankhito",
+    "Name": "KinkySync",
+    "Punchline": "Consent-based animation scene synchronization.",
+    "Description": "Testing shell for pair-aware animation scene resolution, temporary partner sharing, and the KinkySync relay. Penumbra application and live playback remain under development.",
+    "InternalName": "KinkySync.Plugin",
+    "AssemblyVersion": "0.1.1.0",
+    "RepoUrl": "https://github.com/Ankhito/KinkySync",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "animation",
+      "penumbra",
+      "sync",
+      "testing"
+    ],
+    "CategoryTags": [
+      "Utility",
+      "Testing"
+    ],
+    "IsTestingExclusive": true,
+    "_Dip17Channel": "testing-live",
+    "TestingDalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadCount": 0,
+    "LastUpdate": 1782854514,
+    "DownloadLinkInstall": "https://github.com/Ankhito/KinkySync/releases/download/v0.1.1-testing/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ankhito/KinkySync/releases/download/v0.1.1-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ankhito/KinkySync/releases/download/v0.1.1-testing/latest.zip",
+    "TestingAssemblyVersion": "0.1.1.0"
   }
 ]
-
-
-
-
